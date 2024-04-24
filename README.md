@@ -2,7 +2,7 @@ Architecture
 
 Compare and contrast the types of frontend development you used in your full stack project, including Express HTML, JavaScript, and the single-page application (SPA).
 
-The project structure using Angular involved rendering the views on the client side, while the previous Express structure rendered views on the server side and then sent them to the client side. This is a difference of frontend vs backend. There are additional components, models, and services with the Angular structure compared to the view's controller and routes of Express. Both use API calls to send and or receive data. Angular is a dingle HTMP page dynamically updating on the client. Express is a template engine using handlebars dynamically generating on the server before then sending over to the client. 
+The project structure using Angular involved rendering the views on the client side, while the previous Express structure rendered views on the server side and then sent them to the client side. This is a difference of frontend vs backend. There are additional components, models, and services with the Angular structure compared to the view's controller and routes of Express. Both use API calls to send and or receive data. Angular is a single HTMP page dynamically updating on the client. Express is a template engine using handlebars dynamically generating on the server before then sending over to the client. 
 
  
 
